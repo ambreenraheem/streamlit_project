@@ -15,8 +15,8 @@ Key features of the app include a color-coded map for station status and a perso
 The source ultimately highlights Streamlit as a no-cost, highly customizable alternative to traditional dashboarding tools like Tableau or Power BI.
 
 
-### FOR MORE UPDATES FOLLOW MY YOUTUBE CHANNEL:
-
+### FOR MORE UPDATES FOLLOW ME:
+### **YOUTUBE CHANNEL**
 **[AMBREEN THE DATA ANALYST](https://www.youtube.com/@AmbreenAbdulRaheem-y8m)**
 
 ### **GitHub**
