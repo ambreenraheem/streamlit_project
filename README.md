@@ -2,7 +2,8 @@ DATE: 05-FEBUARY-2026
 
 
 # Building First Streamlit App
-## By AMBREEN ABDUL RAHEEM (THE DATA ANALYST, AI AGENT AND WEB APPLICATION DEVELOPER)
+## By AMBREEN ABDUL RAHEEM
+### (THE DATA ANALYST, AI AGENT AND WEB APPLICATION DEVELOPER)
 
 
 Building a real-time web application using the Streamlit Python package.
@@ -18,6 +19,8 @@ The source ultimately highlights Streamlit as a no-cost, highly customizable alt
 
 **[AMBREEN THE DATA ANALYST](https://www.youtube.com/@AmbreenAbdulRaheem-y8m)**
 
+### **GitHub**
 **[GitHub](https://github.com/ambreenraheem)**
 
+### **LinkedIn**
 **[LinkedIn](https://www.linkedin.com/in/ambreen-abdul-raheem-122509300/?locale=en)**
