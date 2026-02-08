@@ -1,0 +1,25 @@
+name: bikeshare_streamlit
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - jupyter
+  - pip
+
+  - pip:
+      - streamlit
+      - folium
+      - streamlit-folium
+      - geopandas
+      - pydeck
+      - altair
+      - pyarrow
+      - shapely
+      - fiona
+      - pyproj
