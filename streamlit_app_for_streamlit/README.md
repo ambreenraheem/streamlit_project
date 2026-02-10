@@ -49,13 +49,13 @@ If you need custom settings, create a .streamlit/config.toml file in your repo.
 
 Files Structure
 
-toronto-bikeshare/
+toronto-bikeshare/\
 │
-├── app.py                 # Main Streamlit application
-├── requirements.txt       # Python dependencies
+├── app.py                 # Main Streamlit application\
+├── requirements.txt       # Python dependencies\
 ├── .streamlit/
-│   └── config.toml       # Streamlit configuration
-└── README.md             # This file
+│   └── config.toml       # Streamlit configuration\
+└── README.md             # This file\
 
 **Key Changes from Original**
 
@@ -81,26 +81,3 @@ toronto-bikeshare/
 - Toronto Bike Share real-time GBFS feed
 - OpenStreetMap (via Nominatim) for geocoding
 - OSRM (Open Source Routing Machine) for route calculation
-
-Troubleshooting
-
-Issue: App crashes on deployment
-
-Check that all dependencies are in requirements.txt
-
-Ensure no local file paths are hardcoded
-
-Issue: Geocoding doesn't work
-
-Nominatim has rate limits; wait a few seconds between requests
-
-Ensure address format is correct
-
-Issue: Map doesn't display
-
-Check that folium and streamlit-folium versions are compatible
-
-Clear browser cache
-
-License
-MIT License - feel free to use and modify!
